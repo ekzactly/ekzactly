@@ -13,4 +13,4 @@ real estate management website ( mini project )
 
 ## Contact Me
 - Email: ekzaparna@gmail.com
-- LinkedIn :www.linkwdin.com/in/ekaparna-s
+- LinkedIn :www.linkedin.com/in/ekaparna-s

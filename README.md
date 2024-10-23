@@ -7,9 +7,6 @@ I'm a BCA graduate with a strong foundation in coding, I have developed a keen i
 - **Programming**: Python, JavaScript, HTML/CSS
 - **Cybersecurity**: Network Security, Encryption, pentesting
 
-## Projects
-### [Project 1: real estate management system](https://github.com/yourusername/project1)
-real estate management website ( mini project )
 
 ## Contact Me
 - Email: ekzaparna@gmail.com
